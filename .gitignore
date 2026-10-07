@@ -1,4 +1,4 @@
 .*
 !.gitignore
 *.apx
-apxcs
+apxc
