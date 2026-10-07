@@ -1,4 +1,0 @@
-zahl("-9223372036854775808") -> minimum
-zeige minimum
-zahl("9223372036854775807") -> maximum
-zeige maximum
