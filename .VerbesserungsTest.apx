@@ -1,0 +1,14 @@
+zeige "Zahl: "
+zahl(frage()) -> x
+zeige anders(x)
+zeige anders(x)
+1 -> x
+zeige anders(x)
+liste() -> werte
+attach(werte, x) -> werte
+zeige holen(werte, 0), "/", len(werte)
+wenn wahr
+    zeige "OK"
+sonst
+    zeige "Fehler"
+ende
